@@ -1,0 +1,23 @@
+Program 5 README
+========================
+
+Desc:
+Program 5 is a C-based
+version of program 3.
+Creates dictionary
+using a hash table with
+linked listed stored in
+its array to account for
+collisions. 
+
+Author:
+Dylan Temple #1609700 
+CMPS-12B
+
+Contents:
+README
+Makefile
+Dictionary.c
+DictionaryTest.c
+Dictionary.h
+DictionaryClient.c
